@@ -1,0 +1,2262 @@
+﻿{
+    "nodes":  [
+                  {
+                      "id":  "A",
+                      "number_id":  1,
+                      "label":  "Introduction to calculus and limits",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim1",
+                      "topicName":  "Introduction to calculus and limits",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "B",
+                      "number_id":  2,
+                      "label":  "The limit concept",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim2",
+                      "topicName":  "The limit concept",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "C",
+                      "number_id":  3,
+                      "label":  "Graphical and numerical limits",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim3",
+                      "topicName":  "Graphical and numerical limits",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "H",
+                      "number_id":  9,
+                      "label":  "Introduction to derivatives",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "topicCode":  "Der1",
+                      "topicName":  "Introduction to derivatives",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives",
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     }
+                  },
+                  {
+                      "id":  "D",
+                      "number_id":  4,
+                      "label":  "Limit laws",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim4",
+                      "topicName":  "Limit laws",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "E",
+                      "number_id":  6,
+                      "label":  "Limits at infinity and infinite limits",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim6",
+                      "topicName":  "Limits at infinity and infinite limits",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "F",
+                      "number_id":  7,
+                      "label":  "Epsilon-delta definition of the limit",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim5",
+                      "topicName":  "Epsilon-delta definition of the limit",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "G",
+                      "number_id":  8,
+                      "label":  "Continuity and the intermediate value theorem",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Lim7",
+                      "topicName":  "Continuity and the intermediate value theorem",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Limits and Continuity"
+                  },
+                  {
+                      "id":  "J",
+                      "number_id":  11,
+                      "label":  "Basic differentiation rules",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der3",
+                      "topicName":  "Basic differentiation rules",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "BB",
+                      "number_id":  5,
+                      "label":  "Sequences",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer1",
+                      "topicName":  "Sequences",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "I",
+                      "number_id":  10,
+                      "label":  "Derivatives as functions",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der2",
+                      "topicName":  "Derivatives as functions",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "N",
+                      "number_id":  18,
+                      "label":  "Rates of change and exponential models",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der9",
+                      "topicName":  "Rates of change and exponential models",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "P",
+                      "number_id":  24,
+                      "label":  "Linear approximations",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der11",
+                      "topicName":  "Linear approximations",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "K",
+                      "number_id":  12,
+                      "label":  "The product and quotient rules",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der4",
+                      "topicName":  "The product and quotient rules",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "L",
+                      "number_id":  14,
+                      "label":  "Trigonometric derivatives",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der5",
+                      "topicName":  "Trigonometric derivatives",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "M",
+                      "number_id":  16,
+                      "label":  "Logarithmic and exponential derivatives",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der6",
+                      "topicName":  "Logarithmic and exponential derivatives",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "O",
+                      "number_id":  19,
+                      "label":  "The chain rule",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der7",
+                      "topicName":  "The chain rule",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "S",
+                      "number_id":  27,
+                      "label":  "L\u0027Hôpital\u0027s rule",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der16",
+                      "topicName":  "L\u0027Hôpital\u0027s rule",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "W",
+                      "number_id":  30,
+                      "label":  "Newton\u0027s method",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der18",
+                      "topicName":  "Newton\u0027s method",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "R",
+                      "number_id":  26,
+                      "label":  "The shape of graphs and concavity",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der14",
+                      "topicName":  "The shape of graphs and concavity",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "Q",
+                      "number_id":  25,
+                      "label":  "Extreme values",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der12",
+                      "topicName":  "Extreme values",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "U",
+                      "number_id":  29,
+                      "label":  "Implicit differentiation",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der8",
+                      "topicName":  "Implicit differentiation",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "AJ",
+                      "number_id":  21,
+                      "label":  "Integration by substitution",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int7",
+                      "topicName":  "Integration by substitution",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AL",
+                      "number_id":  22,
+                      "label":  "Inverse trigonometric integrals",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int13",
+                      "topicName":  "Inverse trigonometric integrals",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AB",
+                      "number_id":  20,
+                      "label":  "Hyperbolic functions",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int12",
+                      "topicName":  "Hyperbolic functions",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "BJ",
+                      "number_id":  23,
+                      "label":  "Parametric equations",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "ParamPol1",
+                      "topicName":  "Parametric equations",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Parametric Equations and Polar Coordinates"
+                  },
+                  {
+                      "id":  "AM",
+                      "number_id":  13,
+                      "label":  "Integration by parts",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt1",
+                      "topicName":  "Integration by parts",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "T",
+                      "number_id":  28,
+                      "label":  "Antiderivatives",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int1",
+                      "topicName":  "Antiderivatives",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "BH",
+                      "number_id":  17,
+                      "label":  "Taylor series",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer7",
+                      "topicName":  "Taylor series",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BK",
+                      "number_id":  15,
+                      "label":  "Polar coordinates",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "ParamPol2",
+                      "topicName":  "Polar coordinates",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Parametric Equations and Polar Coordinates"
+                  },
+                  {
+                      "id":  "V",
+                      "number_id":  19,
+                      "label":  "Related rates",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der10",
+                      "topicName":  "Related rates",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "X",
+                      "number_id":  26,
+                      "label":  "Optimization",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der17",
+                      "topicName":  "Optimization",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "Y",
+                      "number_id":  22,
+                      "label":  "The mean value theorem",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der13",
+                      "topicName":  "The mean value theorem",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "Z",
+                      "number_id":  24,
+                      "label":  "Graphing with derivatives",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Der15",
+                      "topicName":  "Graphing with derivatives",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Derivatives"
+                  },
+                  {
+                      "id":  "AA",
+                      "number_id":  29,
+                      "label":  "Introduction to integrals and area approximation",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int2",
+                      "topicName":  "Introduction to integrals and area approximation",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AC",
+                      "number_id":  30,
+                      "label":  "Definite integrals",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int3",
+                      "topicName":  "Definite integrals",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AD",
+                      "number_id":  31,
+                      "label":  "The fundamental theorem of calculus",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int4",
+                      "topicName":  "The fundamental theorem of calculus",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AE",
+                      "number_id":  38,
+                      "label":  "Area between curves",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int8",
+                      "topicName":  "Area between curves",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AF",
+                      "number_id":  40,
+                      "label":  "Volume of solids of revolution",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int9",
+                      "topicName":  "Volume of solids of revolution",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AG",
+                      "number_id":  43,
+                      "label":  "Arc length and surface area",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int11",
+                      "topicName":  "Arc length and surface area",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AH",
+                      "number_id":  41,
+                      "label":  "Physical applications of integrals",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int10",
+                      "topicName":  "Physical applications of integrals",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AI",
+                      "number_id":  32,
+                      "label":  "Indefinite integrals and the net change theorem",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int5",
+                      "topicName":  "Indefinite integrals and the net change theorem",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AK",
+                      "number_id":  33,
+                      "label":  "Logarithmic and exponential integrals",
+                      "calc_level":  "Calculus I",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "Int6",
+                      "topicName":  "Logarithmic and exponential integrals",
+                      "course":  "Calculus I",
+                      "coreIdea":  "Integrals"
+                  },
+                  {
+                      "id":  "AN",
+                      "number_id":  48,
+                      "label":  "Trigonometric integrals",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt2",
+                      "topicName":  "Trigonometric integrals",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AO",
+                      "number_id":  49,
+                      "label":  "Trigonometric substitutions",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt3",
+                      "topicName":  "Trigonometric substitutions",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AP",
+                      "number_id":  50,
+                      "label":  "Integration by partial fractions",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt4",
+                      "topicName":  "Integration by partial fractions",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AQ",
+                      "number_id":  51,
+                      "label":  "Integration strategies",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt5",
+                      "topicName":  "Integration strategies",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AR",
+                      "number_id":  52,
+                      "label":  "Numerical and table-based integration",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt6",
+                      "topicName":  "Numerical and table-based integration",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AS",
+                      "number_id":  53,
+                      "label":  "Improper integrals",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt7",
+                      "topicName":  "Improper integrals",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AT",
+                      "number_id":  54,
+                      "label":  "Probability applications",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt8",
+                      "topicName":  "Probability applications",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AU",
+                      "number_id":  55,
+                      "label":  "Advanced physical applications",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt9",
+                      "topicName":  "Advanced physical applications",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AV",
+                      "number_id":  56,
+                      "label":  "Economics applications",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "AdvInt10",
+                      "topicName":  "Economics applications",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Advanced integration"
+                  },
+                  {
+                      "id":  "AW",
+                      "number_id":  57,
+                      "label":  "Introduction to differential equations",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "DiffEq1",
+                      "topicName":  "Introduction to differential equations",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Differential Equations"
+                  },
+                  {
+                      "id":  "AX",
+                      "number_id":  58,
+                      "label":  "Direction fields and Euler\u0027s method",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "DiffEq2",
+                      "topicName":  "Direction fields and Euler\u0027s method",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Differential Equations"
+                  },
+                  {
+                      "id":  "AY",
+                      "number_id":  59,
+                      "label":  "Separable differential equations",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "DiffEq3",
+                      "topicName":  "Separable differential equations",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Differential Equations"
+                  },
+                  {
+                      "id":  "AZ",
+                      "number_id":  60,
+                      "label":  "Modeling with differential equations",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "DiffEq4",
+                      "topicName":  "Modeling with differential equations",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Differential Equations"
+                  },
+                  {
+                      "id":  "BA",
+                      "number_id":  61,
+                      "label":  "Special first-order linear differential equations",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "DiffEq5",
+                      "topicName":  "Special first-order linear differential equations",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Differential Equations"
+                  },
+                  {
+                      "id":  "BC",
+                      "number_id":  63,
+                      "label":  "Series",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer2",
+                      "topicName":  "Series",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BD",
+                      "number_id":  64,
+                      "label":  "Convergence and divergence",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer3",
+                      "topicName":  "Convergence and divergence",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BE",
+                      "number_id":  65,
+                      "label":  "Comparison tests",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer4",
+                      "topicName":  "Comparison tests",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BF",
+                      "number_id":  66,
+                      "label":  "The ratio and root tests",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer5",
+                      "topicName":  "The ratio and root tests",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BG",
+                      "number_id":  67,
+                      "label":  "Alternating series",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer6",
+                      "topicName":  "Alternating series",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BI",
+                      "number_id":  69,
+                      "label":  "Power series and functions",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "SeqSer8",
+                      "topicName":  "Power series and functions",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Sequences and Series"
+                  },
+                  {
+                      "id":  "BL",
+                      "number_id":  72,
+                      "label":  "Area and arc length in polar coordinates",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "ParamPol3",
+                      "topicName":  "Area and arc length in polar coordinates",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Parametric Equations and Polar Coordinates"
+                  },
+                  {
+                      "id":  "BM",
+                      "number_id":  73,
+                      "label":  "Conic sections",
+                      "calc_level":  "Calculus II",
+                      "cs_categories":  [
+
+                                        ],
+                      "rationales":  {
+                                         "Fluid Mechanics":  [
+
+                                                             ],
+                                         "Dynamics":  [
+
+                                                      ],
+                                         "Heat Transfer":  [
+
+                                                           ]
+                                     },
+                      "topicCode":  "ParamPol4",
+                      "topicName":  "Conic sections",
+                      "course":  "Calculus II",
+                      "coreIdea":  "Parametric Equations and Polar Coordinates"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "source":  "A",
+                      "target":  "B"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "C"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "H"
+                  },
+                  {
+                      "source":  "C",
+                      "target":  "D"
+                  },
+                  {
+                      "source":  "C",
+                      "target":  "E"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "F"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "G"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "J"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BB"
+                  },
+                  {
+                      "source":  "H",
+                      "target":  "I"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "J"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "N"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "P"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "R"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "U"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "AJ"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "AL"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "AB"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "BJ"
+                  },
+                  {
+                      "source":  "K",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "K",
+                      "target":  "AM"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "T"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "BH"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "BK"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "T"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "BH"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "V"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AA"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AW"
+                  },
+                  {
+                      "source":  "U",
+                      "target":  "V"
+                  },
+                  {
+                      "source":  "Q",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "Q",
+                      "target":  "Y"
+                  },
+                  {
+                      "source":  "Q",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "R",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "AA",
+                      "target":  "AC"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AD"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AE"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AF"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AG"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AH"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AR"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AS"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AU"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AV"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AZ"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "BL"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AD"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AK"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AJ"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AL"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AB"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AM"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AN"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AP"
+                  },
+                  {
+                      "source":  "AD",
+                      "target":  "AI"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AH"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AG"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AO"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AY"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "BA"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "BL"
+                  },
+                  {
+                      "source":  "AK",
+                      "target":  "AH"
+                  },
+                  {
+                      "source":  "AN",
+                      "target":  "AO"
+                  },
+                  {
+                      "source":  "AP",
+                      "target":  "AQ"
+                  },
+                  {
+                      "source":  "AO",
+                      "target":  "AQ"
+                  },
+                  {
+                      "source":  "AM",
+                      "target":  "AQ"
+                  },
+                  {
+                      "source":  "AQ",
+                      "target":  "AR"
+                  },
+                  {
+                      "source":  "AQ",
+                      "target":  "AS"
+                  },
+                  {
+                      "source":  "AQ",
+                      "target":  "AU"
+                  },
+                  {
+                      "source":  "AQ",
+                      "target":  "AV"
+                  },
+                  {
+                      "source":  "AS",
+                      "target":  "AT"
+                  },
+                  {
+                      "source":  "AW",
+                      "target":  "AX"
+                  },
+                  {
+                      "source":  "AW",
+                      "target":  "AY"
+                  },
+                  {
+                      "source":  "AW",
+                      "target":  "BA"
+                  },
+                  {
+                      "source":  "AY",
+                      "target":  "AZ"
+                  },
+                  {
+                      "source":  "BB",
+                      "target":  "BC"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BD"
+                  },
+                  {
+                      "source":  "BD",
+                      "target":  "BE"
+                  },
+                  {
+                      "source":  "BD",
+                      "target":  "BF"
+                  },
+                  {
+                      "source":  "BD",
+                      "target":  "BG"
+                  },
+                  {
+                      "source":  "BD",
+                      "target":  "BH"
+                  },
+                  {
+                      "source":  "BH",
+                      "target":  "BI"
+                  },
+                  {
+                      "source":  "BK",
+                      "target":  "BL"
+                  },
+                  {
+                      "source":  "BK",
+                      "target":  "BM"
+                  },
+                  {
+                      "source":  "BJ",
+                      "target":  "BM"
+                  },
+                  {
+                      "source":  "A",
+                      "target":  "C"
+                  },
+                  {
+                      "source":  "A",
+                      "target":  "D"
+                  },
+                  {
+                      "source":  "A",
+                      "target":  "E"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "D"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "F"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "E"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "G"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "I"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "AA"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "AC"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "AD"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "AS"
+                  },
+                  {
+                      "source":  "B",
+                      "target":  "BB"
+                  },
+                  {
+                      "source":  "C",
+                      "target":  "F"
+                  },
+                  {
+                      "source":  "C",
+                      "target":  "G"
+                  },
+                  {
+                      "source":  "C",
+                      "target":  "BB"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "L"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "M"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "S"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BC"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BD"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BE"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BF"
+                  },
+                  {
+                      "source":  "D",
+                      "target":  "BG"
+                  },
+                  {
+                      "source":  "H",
+                      "target":  "O"
+                  },
+                  {
+                      "source":  "H",
+                      "target":  "W"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "Y"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "R"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "W"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "AD"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "AW"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "AX"
+                  },
+                  {
+                      "source":  "I",
+                      "target":  "BJ"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "U"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "V"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "Q"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "R"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "T"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "AG"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "AB"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "AL"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "AM"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "BH"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "BJ"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "BK"
+                  },
+                  {
+                      "source":  "J",
+                      "target":  "BM"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "V"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "O",
+                      "target":  "AG"
+                  },
+                  {
+                      "source":  "K",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "K",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "AN"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "AO"
+                  },
+                  {
+                      "source":  "L",
+                      "target":  "BL"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "Z"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "X"
+                  },
+                  {
+                      "source":  "M",
+                      "target":  "AK"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AI"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AH"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AU"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AV"
+                  },
+                  {
+                      "source":  "N",
+                      "target":  "AZ"
+                  },
+                  {
+                      "source":  "AC",
+                      "target":  "AT"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AO"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AQ"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AR"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AY"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "BA"
+                  },
+                  {
+                      "source":  "T",
+                      "target":  "AI"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AQ"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AU"
+                  },
+                  {
+                      "source":  "AJ",
+                      "target":  "AV"
+                  },
+                  {
+                      "source":  "AQ",
+                      "target":  "AT"
+                  },
+                  {
+                      "source":  "AW",
+                      "target":  "AZ"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BE"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BF"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BG"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BH"
+                  },
+                  {
+                      "source":  "BC",
+                      "target":  "BI"
+                  },
+                  {
+                      "source":  "BD",
+                      "target":  "BI"
+                  }
+              ]
+}

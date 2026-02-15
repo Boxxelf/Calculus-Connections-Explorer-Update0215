@@ -1,46 +1,129 @@
-## Update Notes: Calculus Connections Explorer - January 25, 2026
+# Calculus Connections Explorer
 
-## Overview
+An interactive web application that visualizes how **Calculus** topics connect to domain-specific courses in **Computer Science** and **Mechanical Engineering**. Users can explore prerequisite relationships, filter by course or topic, and read rationales explaining why each calculus concept matters for their chosen field.
 
-This document describes the updates and improvements made to the Calculus Connections Explorer on January 25, 2026.
+---
 
-## Public View Link
+## Public View Links
 
-The live site will be available at:  
-**[https://boxxelf.github.io/Calculus-Connections-Explorer-Update0125/](https://boxxelf.github.io/Calculus-Connections-Explorer-Update0125/)**
+Once deployed to GitHub Pages, the live sites are available at:
 
-## GitHub Repository
+| Version | Link | Description |
+|---------|------|-------------|
+| **Computer Science** | `https://<username>.github.io/<repo-name>/` | CS topics and their calculus connections |
+| **Mechanical Engineering** | `https://<username>.github.io/<repo-name>/meche/` | MechE topics (Dynamics, Fluid Mechanics, Heat Transfer) and calculus connections |
 
-Source code and project files are available at:  
-**[https://github.com/Boxxelf/Calculus-Connections-Explorer-Update0125](https://github.com/Boxxelf/Calculus-Connections-Explorer-Update0125)**
+**Example** (replace with your GitHub username and repo name):
+- **CS:** [https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/](https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/)
+- **ME:** [https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/meche/](https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/meche/)
 
+---
 
-## Updates Summary
+## Features
 
-### Date: January 25, 2026
+- **Interactive concept map** — Zoom, pan, and explore the calculus topic graph
+- **Topic filtering** — Select CS or MechE courses and topics to see connected calculus ideas
+- **Ranked calculus list** — View connected calculus topics with connection strength
+- **Rationales** — Read explanations of how each calculus concept supports the selected domain topics
+- **Full concept map view** — Optional graph-based visualization with zoom and pan
 
-This update introduces new node label names for improved clarity and consistency across the calculus concept map, and adds a new Mermaid diagram source file to the repository.
+---
 
+## Local Development
 
-### Changes Made
+### Option 1: Python HTTP Server
 
-#### 1. New Node Label Names
+```bash
+# From the project root
+python -m http.server 8000
+# Or: python3 -m http.server 8000
+```
 
-Updated node labels in the graph data to provide clearer and more descriptive names for calculus topics. The new labels improve readability and maintain consistency with the topic naming scheme defined in `Calculus topic labeling scheme.csv`.
+Then open:
+- **CS:** http://localhost:8000/
+- **ME:** http://localhost:8000/meche/
 
-**Examples of updated node labels:**
-- Node labels have been standardized to match the official topic names
-- Improved clarity in node descriptions for better user understanding
-- Enhanced consistency between graph nodes and CSV topic definitions
+### Option 2: PowerShell (Windows)
 
+```powershell
+.\serve.ps1
+# Or with custom port: .\serve.ps1 8888
+```
 
-## Previous Updates
+Then open:
+- **CS:** http://localhost:8000/
+- **ME:** http://localhost:8000/meche/
 
-For previous update notes, see:
-- [UPDATE_NOTES1201.md](./UPDATE_NOTES1201.md) - December 1, 2024 updates (Topic Code Mapping Fixes)
+---
 
+## Deploy to GitHub Pages
+
+### Step 1: Create a GitHub Repository
+
+1. Go to [https://github.com/new](https://github.com/new)
+2. Set the repository name (e.g., `Calculus-Connections-Explorer-Update0215`)
+3. Make it **Public**
+4. Do **not** initialize with README, .gitignore, or license
+
+### Step 2: Push the Code
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git push -u origin main
+```
+
+### Step 3: Enable GitHub Pages
+
+**Option A — Deploy from branch (simplest):**
+
+1. In your GitHub repository, go to **Settings** → **Pages**
+2. Under **Source**, select **Deploy from a branch**
+3. **Branch:** `main`
+4. **Folder:** `/ (root)`
+5. Click **Save**
+
+**Option B — GitHub Actions:**
+
+1. In **Settings** → **Pages**, select **GitHub Actions** as the source
+2. The `.github/workflows/deploy.yml` workflow will run on each push to `main`
+
+After a few minutes, your site will be live at:
+`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+
+---
+
+## Project Structure
+
+```
+├── index.html              # CS version (main entry)
+├── app.js                  # CS application logic
+├── style.css               # Shared styles
+├── graph_data.json         # CS graph data
+├── meche/
+│   ├── index.html          # ME version
+│   ├── app-meche.js        # ME application logic
+│   └── graph_data_meche.json
+├── Calculus topic list-Table 1.csv
+├── CS topic lists-Table 1.csv   # CS topics
+├── ME topic lists.csv           # ME topics
+└── README.md
+```
+
+---
 
 ## Related Documentation
 
-- [README.md](./README.md) - Main project documentation
-- [DEPLOYMENT.md](./DEPLOYMENT.md) - Deployment guide
+- [DEPLOYMENT.md](./DEPLOYMENT.md) — Detailed deployment guide
+- [GITHUB_PAGES_SETUP.md](./GITHUB_PAGES_SETUP.md) — GitHub Pages configuration options
+- [UPDATE_NOTES0125.md](./UPDATE_NOTES0125.md) — January 2026 update notes
+- [UPDATE_NOTES1201.md](./UPDATE_NOTES1201.md) — December 2024 update notes
+
+---
+
+## License
+
+See repository for license information.
