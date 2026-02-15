@@ -2,18 +2,11 @@
 
 An interactive web application that visualizes how **Calculus** topics connect to domain-specific courses in **Computer Science** and **Mechanical Engineering**. Users can explore prerequisite relationships, filter by course or topic, and read rationales explaining why each calculus concept matters for their chosen field.
 
+Updated Feb 15th, 2026
 ---
 
 ## Public View Links
 
-Once deployed to GitHub Pages, the live sites are available at:
-
-| Version | Link | Description |
-|---------|------|-------------|
-| **Computer Science** | `https://<username>.github.io/<repo-name>/` | CS topics and their calculus connections |
-| **Mechanical Engineering** | `https://<username>.github.io/<repo-name>/meche/` | MechE topics (Dynamics, Fluid Mechanics, Heat Transfer) and calculus connections |
-
-**Example** (replace with your GitHub username and repo name):
 - **CS:** [https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/](https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/)
 - **ME:** [https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/meche/](https://boxxelf.github.io/Calculus-Connections-Explorer-Update0215/meche/)
 
