@@ -359,7 +359,7 @@
           },
           {
             "cs_topic": "Probabilistic modeling",
-            "rationale": "Basic differentiation rules are essential in probabilistic modeling, particularly for optimizing parameters in models like Na√Øve Bayes. Differentiation helps compute gradients, which guide adjustments to model parameters to maximize likelihood or minimize error. For example, in Bayesian parameter learning, derivatives of likelihood functions with respect to parameters are used to find optimal values. This process often involves applying rules such as the power rule or chain rule to simplify computations. Understanding these rules ensures efficient implementation of algorithms and supports broader applications in machine learning, where probabilistic models rely on calculus for precise parameter tuning and decision-making."
+            "rationale": "Basic differentiation rules are essential in probabilistic modeling, particularly for optimizing parameters in models like Naïve Bayes. Differentiation helps compute gradients, which guide adjustments to model parameters to maximize likelihood or minimize error. For example, in Bayesian parameter learning, derivatives of likelihood functions with respect to parameters are used to find optimal values. This process often involves applying rules such as the power rule or chain rule to simplify computations. Understanding these rules ensures efficient implementation of algorithms and supports broader applications in machine learning, where probabilistic models rely on calculus for precise parameter tuning and decision-making."
           },
           {
             "cs_topic": "Advanced deep learning",
@@ -409,7 +409,7 @@
         "Computer Graphics": [
           {
             "cs_topic": "Curves and surfaces",
-            "rationale": "Basic differentiation rules are essential in computer science for analyzing and manipulating curves and surfaces, which are fundamental in graphics and geometric modeling. The first derivative of a function, \\(f'(u)\\), provides the slope or direction of the curve at a given point, while the second derivative, \\(f''(u)\\), indicates the rate of change of the slope, helping to understand curvature. For example, in cubic B√©zier curves, the first derivative at the endpoints relates to control points, determining tangent directions, and the second derivative describes acceleration or sharpness of the curve. These derivatives enable precise control over smooth transitions and realistic rendering in computer graphics applications."
+            "rationale": "Basic differentiation rules are essential in computer science for analyzing and manipulating curves and surfaces, which are fundamental in graphics and geometric modeling. The first derivative of a function, \\(f'(u)\\), provides the slope or direction of the curve at a given point, while the second derivative, \\(f''(u)\\), indicates the rate of change of the slope, helping to understand curvature. For example, in cubic Bézier curves, the first derivative at the endpoints relates to control points, determining tangent directions, and the second derivative describes acceleration or sharpness of the curve. These derivatives enable precise control over smooth transitions and realistic rendering in computer graphics applications."
           }
         ]
       },
@@ -676,7 +676,7 @@
         "Algorithms": [
           {
             "cs_topic": "Running time analysis",
-            "rationale": "L'H√¥pital's Rule is essential in running time analysis when comparing the growth rates of functions, particularly in asymptotic notation like \\(o\\), \\(\\omega\\), and \\(\\Theta\\). These notations often involve limits of ratios of functions as input size \\(n \\to \\infty\\). When these ratios result in indeterminate forms (e.g., \\(\\frac{\\infty}{\\infty}\\)), L'H√¥pital's Rule provides a systematic way to evaluate the limit by differentiating the numerator and denominator. For example, to determine if \\(f(n) \\in o(g(n))\\), we compute \\(\\lim_{n \\to \\infty} \\frac{f(n)}{g(n)}\\). If this limit is 0, \\(f(n)\\) grows asymptotically slower than \\(g(n)\\). This analysis is crucial for comparing algorithm efficiencies and selecting optimal solutions for large inputs."
+            "rationale": "L'Hôpital's Rule is essential in running time analysis when comparing the growth rates of functions, particularly in asymptotic notation like \\(o\\), \\(\\omega\\), and \\(\\Theta\\). These notations often involve limits of ratios of functions as input size \\(n \\to \\infty\\). When these ratios result in indeterminate forms (e.g., \\(\\frac{\\infty}{\\infty}\\)), L'Hôpital's Rule provides a systematic way to evaluate the limit by differentiating the numerator and denominator. For example, to determine if \\(f(n) \\in o(g(n))\\), we compute \\(\\lim_{n \\to \\infty} \\frac{f(n)}{g(n)}\\). If this limit is 0, \\(f(n)\\) grows asymptotically slower than \\(g(n)\\). This analysis is crucial for comparing algorithm efficiencies and selecting optimal solutions for large inputs."
           }
         ]
       },
@@ -1442,7 +1442,7 @@
           },
           {
             "cs_topic": "Classification methods",
-            "rationale": "Understanding probability is essential for classification methods in computer science, particularly probabilistic classifiers like Na√Øve Bayes. These models rely on probability theory to make predictions based on evidence, using prior and conditional probabilities to infer relationships between features and classes. For example, Na√Øve Bayes assumes conditional independence among features given a class, simplifying the computation of the joint probability \\( P(C, E_1, \\dots, E_n) = P(C) \\prod_{i} P(E_i | C) \\). This approach enables efficient classification in scenarios with uncertainty, such as spam email detection, where the model predicts whether an email is spam based on probabilities derived from word occurrences. Probability thus provides the foundation for reasoning under uncertainty in classification tasks."
+            "rationale": "Understanding probability is essential for classification methods in computer science, particularly probabilistic classifiers like Naïve Bayes. These models rely on probability theory to make predictions based on evidence, using prior and conditional probabilities to infer relationships between features and classes. For example, Naïve Bayes assumes conditional independence among features given a class, simplifying the computation of the joint probability \\( P(C, E_1, \\dots, E_n) = P(C) \\prod_{i} P(E_i | C) \\). This approach enables efficient classification in scenarios with uncertainty, such as spam email detection, where the model predicts whether an email is spam based on probabilities derived from word occurrences. Probability thus provides the foundation for reasoning under uncertainty in classification tasks."
           }
         ],
         "Artificial Intelligence": [
