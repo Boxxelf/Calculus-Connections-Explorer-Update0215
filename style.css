@@ -955,6 +955,11 @@ h1 {
     display: none;
 }
 
+/* KaTeX MathML layer: hide visual duplicate text, keep only HTML rendering */
+.katex .katex-mathml {
+    display: none !important;
+}
+
 /* Utility */
 .hidden {
     display: none;
